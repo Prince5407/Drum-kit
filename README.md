@@ -1,2 +1,2 @@
 # Drum-kit
-Made Drum-kit to plays different drum instrument using HTML,CSS and JAVA-SCRIPT
+Made Drum-kit to play different drum instruments using HTML,CSS and JAVA-SCRIPT
